@@ -1,7 +1,7 @@
 # pandas_challenge
 This project contains a Jupyter Notebook analysis on fictional gaming company data.
 
-The conclusions are included at the beginging of the notebook.  The following analysis displays:
+The conclusions are included at the beginging of the notebook.  The analysis following displays:
 
     Player Count
     Total Purchasing Analysis
